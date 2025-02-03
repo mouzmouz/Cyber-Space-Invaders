@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall_left
+  - Wall_right
+  - Floor
+  - Breakable
+  - Pickup
+  - Projectile
+  - EndTrigger
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Wireframe
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Bullets
+  - Player
+  - Obstacles
+  - Floor
+  m_SortingLayers:
+  - name: UI
+    uniqueID: 1406045149
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
