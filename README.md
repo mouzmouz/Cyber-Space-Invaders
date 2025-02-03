@@ -1,4 +1,4 @@
-# VR Obstacle Avoidance Game (Unity)
+# Cyber Space Invaders - An Obstacle Avoidance Game (Unity)
 
 ## Overview
 This project is a **VR game** developed in **Unity** where players navigate and avoid obstacles using a smartphone as both an input and output device. The game leverages **Google Cardboard VR** and **motion sensors** (accelerometer & compass) for an immersive experience.
